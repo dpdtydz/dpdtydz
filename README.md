@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpdtydz
 
-- gamema.shop
+- http://gamema.shop
 
 [![Hosang GitHub stats](https://github-readme-stats.vercel.app/api?username=dpdtydz)](https://github.com/anuraghazra/github-readme-stats)
 
