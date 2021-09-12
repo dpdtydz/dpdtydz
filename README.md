@@ -8,7 +8,7 @@
 
 . [스파르타](https://github.com/dpdtydz/webday)
 
-- 👨‍💻 내 모든 프로젝트는 [https://github.com/dpdtydz/dpdtydz/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6에서 볼 수 있습니다. %AC%EC%98%A4(%EC%9D%B4%ED%98%B8%EC%83%81).pptx](https://github.com/dpdtydz/dpdtydz/blob/main/%ED %8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EC%9D%B4%ED%98%B8%EC%83%81).pptx )
+- 👨‍💻 내 모든 프로젝트는 [https://github.com/dpdtydz/dpdtydz/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EC%9D%B4%ED%98%B8%EC%83%81).pptx에서 볼 수 있습니다.](https://github.com/dpdtydz/dpdtydz/blob/main/%ED %8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EC%9D%B4%ED%98%B8%EC%83%81).pptx )
 
 - 📝 [https://blog.naver.com/so_tell](https://blog.naver.com/so_tell)에 정기적으로 글을 작성 하고 있습니다. - 💬
 
