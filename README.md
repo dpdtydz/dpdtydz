@@ -6,7 +6,7 @@
 ### <div align="center">I'm hosang, a  full-stack developer 👨‍💻 studying since 2014🚀</div>  
   
 
-- 🔭 I’m currently working [Web studying](https://github.com/dpdtydz/webday)  
+- 🔭 I’m currently working [Web studying](https://www.tildp.shop/)  
   
 
 - 🌱 I’m currently learning Spring, React  
