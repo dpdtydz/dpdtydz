@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: i`m like lazy tortoise  
   
--:construction_worker: Android developer(front)
+- :construction_worker: Android developer(front)
 
 <br/>  
 
