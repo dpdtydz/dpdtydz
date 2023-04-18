@@ -17,7 +17,8 @@
 
 - ⚡ 함께 하는 가치를 소중히 여기는 개발자
   
-- :construction_worker: Android developer(front)
+- :construction_worker: back_end developer(full)
+
 - [Wegloo](https://github.com/ehwlfk2/Wegloo) 에서 Android 개발 
 - [TDP](https://github.com/hyeyoungs/TDP) 에서 Back-End 개발
 - 스파르타 코딩캠프 클라우드 엔지니어 과정 1기 수료
