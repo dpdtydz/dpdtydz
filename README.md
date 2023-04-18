@@ -18,7 +18,7 @@
 - ⚡ Fun fact: i`m like lazy tortoise  
   
 - :construction_worker: Android developer(front)
-
+- 2022-08-08 아이스크림키즈 IT 개발팀에서 Back-end 개발자로 근무 
 <br/>  
 
 
