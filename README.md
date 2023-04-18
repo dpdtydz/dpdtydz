@@ -6,16 +6,16 @@
 ### <div align="center">I'm hosang, a  full-stack developer 👨‍💻 studying since 2014🚀</div>  
   
 
-- 🔭 I’m currently working [Web studying](https://www.tildp.shop/)  
+- 🔭 웹개발을 A-z 모두 배우고 싶은 사람 
   
 
-- 🌱 I’m currently learning Spring, React  
+- 🌱 Spring ,react 마스터를 목표로 열심히 공부하는 중입니다
   
 
-- ❓ Ask me about anything related to problem-solving techniques and front-end and related technologies  
+- ❓ 문제 해결 기술 및 프런트 엔드 및 백엔드 관련 기술에 대한 지식 공유 환영합니다!
   
 
-- ⚡ Fun fact: i`m like lazy tortoise  
+- ⚡ 함께 하는 가치를 소중히 여기는 개발자
   
 - :construction_worker: Android developer(front)
 - [Wegloo](https://github.com/ehwlfk2/Wegloo) 에서 Android 개발 
