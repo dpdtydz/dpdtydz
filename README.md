@@ -22,7 +22,8 @@
 - [Wegloo](https://github.com/ehwlfk2/Wegloo) 에서 Android 개발 
 - [TDP](https://github.com/hyeyoungs/TDP) 에서 Back-End 개발
 - 스파르타 코딩캠프 클라우드 엔지니어 과정 1기 수료
-- 2022-08-08 아이스크림키즈 IT 개발팀에서 Back-end 개발자로 근무 
+- 2022-08-07 아이스크림키즈 IT 개발팀에서 Back-end 개발자로 근무 
+- 2022-05-02 아이스크림에듀 학습서비스개발팀에서 Back-end 개발자로 근무
 <br/>  
 
 
