@@ -31,11 +31,13 @@
   - 관리자 (angular + spring web mvc/Spring) / Mybatis / mariaDB
   - 학습자 (Spring)
   - 홈페이지 (spring web mvc/Spring)
+  - 신규 개발
   - MSA 아키텍처가 적용 된 서비스에 융합
   - 학습자 보상 시스템
   - 스케줄링 구조 개선
   - A 런칭
   - B 런칭
+  - 서비스 운영
 <br/>  
 
 
