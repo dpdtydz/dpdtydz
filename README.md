@@ -35,8 +35,11 @@
   - MSA 아키텍처가 적용 된 서비스에 융합
   - 학습자 보상 시스템
   - 스케줄링 구조 개선
-  - [리틀홈런 영어유치원 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025012480127)
-  - B 런칭
+  - [리틀홈런 영어놀이터 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025012480127)
+  - [리틀홈런 똑똑수학 오픈](https://www.eduplusnews.com/news/articleView.html?idxno=16119)
+  - [리틀홈런 화상관리 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025022680071)
+  - [리틀홈런 공부시간 관리 오픈](https://zdnet.co.kr/view/?no=20241224082312)
+  - 
   - 서비스 운영
 <br/>  
 
