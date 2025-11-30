@@ -39,7 +39,7 @@
   - [리틀홈런 똑똑수학 오픈](https://www.eduplusnews.com/news/articleView.html?idxno=16119)
   - [리틀홈런 화상관리 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025022680071)
   - [리틀홈런 공부시간 관리 오픈](https://zdnet.co.kr/view/?no=20241224082312)
-  - 
+  - A/B/C/D 서비스 개발
   - 서비스 운영
 <br/>  
 
