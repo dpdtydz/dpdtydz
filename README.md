@@ -29,12 +29,16 @@
 - 2023-05-02 아이스크림에듀 학습서비스개발팀에서 Back-end 개발자로 근무
   - [리틀홈런](https://little.home-learn.co.kr/main/index)
   - 관리자 (angular + spring web mvc/Spring) / Mybatis / mariaDB
+    - 데이터 모니터링 시스템 구축
   - 학습자 (Spring)
   - 홈페이지 (spring web mvc/Spring)
   - 신규 개발
   - MSA 아키텍처가 적용 된 서비스에 융합
   - 학습자 보상 시스템
   - 스케줄링 구조 개선
+  - 아키텍처 구조 개선
+  - [리틀홈런 탐험상자 오픈](https://www.kfenews.co.kr/news/articleView.html?idxno=653358)
+  - [리틀홈런 창의상자 오픈](https://www.eduplusnews.com/news/articleView.html?idxno=16262)
   - [리틀홈런 영어놀이터 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025012480127)
   - [리틀홈런 똑똑수학 오픈](https://www.eduplusnews.com/news/articleView.html?idxno=16119)
   - [리틀홈런 화상관리 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025022680071)
