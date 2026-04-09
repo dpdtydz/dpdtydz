@@ -37,6 +37,7 @@
   - 학습자 보상 시스템
   - 스케줄링 구조 개선
   - 아키텍처 구조 개선
+  - [리틀홈런 언어상자 오픈](https://v.daum.net/v/20260409083003288)
   - [리틀홈런 탐험상자 오픈](https://www.kfenews.co.kr/news/articleView.html?idxno=653358)
   - [리틀홈런 창의상자 오픈](https://www.eduplusnews.com/news/articleView.html?idxno=16262)
   - [리틀홈런 영어놀이터 오픈](https://edu.chosun.com/m/edu_article.html?contid=2025012480127)
