@@ -133,6 +133,49 @@
 <br/>  
 
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐾 [우리발자국 (Our Footprints)](https://github.com/dpdtydz/loveLogMap)
+커플을 위한 위치 기반 추억 지도 앨범 & 실시간 연동 다이어리. 사진 EXIF 위치 자동 감지, 타임라인 코멘터리, 공동 여행 플래너 기능을 제공합니다.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Leaflet`
+
+</td>
+<td width="50%">
+
+### 🔮 [인연사주 (Inyeon Saju)](https://github.com/dpdtydz/Fate-Analysis)
+음양오행 원리로 모임과 사람 사이의 케미스트리 및 1:1 궁합을 정밀 분석하는 웹 서비스입니다.
+
+`React` `TypeScript` `Firebase` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌌 [MIND ORACLE (마인드 오라클)](https://github.com/dpdtydz/FateExplorer)
+동양 사주·자미두수와 서양 점성술, Gemini AI를 결합한 통합 운명 탐색 & 감정 리포트 플랫폼입니다.
+
+`React 19` `TypeScript` `Gemini AI` `Firebase`
+
+</td>
+<td width="50%">
+
+### ✨ [Word Nexus (워드 넥서스)](https://github.com/dpdtydz/wordHunter)
+Gemini AI가 실시간으로 단어와 캐릭터를 생성하는 수집형 행맨 퍼즐 게임입니다. 도감 수집과 실시간 랭킹 시스템을 갖췄습니다.
+
+`React` `Express` `Gemini AI` `Firebase`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dpdtydz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
