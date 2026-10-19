@@ -39,7 +39,7 @@
 - **2022.08 ~ 2023.08 · 아이스크림키즈** IT 개발팀 Backend
   - [원앤집](https://www.youtube.com/watch?v=OYw-T9wHAvE) — 레거시 JSP/Servlet → Spring Boot + Vue.js 마이그레이션, 신규 개발 · 운영
 - **이전** — [Wegloo](https://github.com/ehwlfk2/Wegloo) Android 개발 · [TDP](https://github.com/hyeyoungs/TDP) Back-End 개발 · 스파르타 코딩클럽 클라우드 엔지니어 과정 1기 수료
-- **자격** — Microsoft AZ-400 (DevOps) · AI-102 (Azure AI)
+- **수료** — Microsoft AZ-400 (DevOps) · AI-102 (Azure AI)
 
 <br/>
 
