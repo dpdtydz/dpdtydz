@@ -119,12 +119,14 @@ Gemini AI가 실시간으로 단어와 캐릭터를 생성하는 수집형 행�
 
 ## ✍️ Recent Blog Posts
 
+- [같은 이름, 다른 숫자 — 통계 지표의 분모 정하기](https://dpdtydz.github.io/2026-10-14-metric-denominator/)
 - [실패를 '빈 성공'으로 돌려주지 마라 — 집계 배치가 조용히 0을 덮어쓴 이유](https://dpdtydz.github.io/2026-10-08-empty-success-fallback/)
-- [MySQL 8.0 올리기 전에 — 에러 나는 쿼리보다 무서운 '조용히 틀어지는' 쿼리](https://dpdtydz.github.io/2026-09-22-mysql8-silent-queries/)
-- [평균의 평균이 속였다 — 학습시간이 (N+1)/2 배로 부풀던 버그](https://dpdtydz.github.io/2026-09-10-average-of-averages/)
-- [배포할 때마다 502 — Graceful Shutdown과 로드밸런서 헬스체크](https://dpdtydz.github.io/2026-04-16-graceful-shutdown-502/)
-- [왜 월요일 배치만 터질까 — @Transactional과 DB wait_timeout](https://dpdtydz.github.io/2026-04-12-class-level-transactional-wait-timeout/)
-- [Redis 장애가 나도 서비스가 살아있으려면 — L1/L2 캐시 Fallback 구조](https://dpdtydz.github.io/2026-04-03-redis-fallback/)
+- [외부 CDN 스크립트에 SRI 걸기 — 해시는 직접 계산하고, CDN 이 만든 .min.js 는 피한다](https://dpdtydz.github.io/2026-10-08-cdn-sri/)
+- [날짜 인덱스 없는 로그에서 하루치만 읽기 — PK 이진 탐색](https://dpdtydz.github.io/2026-10-06-pk-binary-search-daily-slice/)
+- [커넥션 풀 기본값의 함정 — DBCP2 LifetimeExceededException 과 wait_timeout](https://dpdtydz.github.io/2026-10-02-dbcp2-default-lifetime/)
+- [로그로 개인정보가 새는 세 갈래 — 응답 원문, printStackTrace, 조용한 더미](https://dpdtydz.github.io/2026-10-01-log-pii-masking/)
+- [로그 설정이 두 벌일 때 — 사라진 WARN, 무시된 springProfile](https://dpdtydz.github.io/2026-09-15-logback-two-configs/)
+- [테스트 0개 레거시 서버의 인증 필터 고치기 — 판단은 순수 객체로, 차단은 관측부터](https://dpdtydz.github.io/2026-09-15-legacy-security-gate-observe-mode/)
 
 👉 [전체 글 보기](https://dpdtydz.github.io/blog)
 
